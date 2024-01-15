@@ -7,6 +7,7 @@ I think a good decent part to look at is MarchingCubeHandler::runQueuedMarchingC
 
 A demo of the game can be tested at:
 https://mega.nz/file/qglTzIQQ#EETvdnHb3zCR_L2bqUHDWXgFdnETK58nW-eCrCWIdWY
+Just start MineralMadness.exe and then enter "sandbox" in game.
 
 Sections not mine:
 MarchingCubeData is mostly a copy-paste of tables from https://paulbourke.net/geometry/polygonise/.
