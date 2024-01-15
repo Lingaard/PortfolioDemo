@@ -10,5 +10,5 @@ https://mega.nz/file/qglTzIQQ#EETvdnHb3zCR_L2bqUHDWXgFdnETK58nW-eCrCWIdWY
 Just start MineralMadness.exe and then enter "sandbox" in game.
 
 Sections not mine:
-MarchingCubeData is mostly a copy-paste of tables from https://paulbourke.net/geometry/polygonise/.
 The largest sections here that other team mates wrote are any octree, scanning, pathfinding, and raycast sections.
+MarchingCubeData is mostly a copy-paste of tables from https://paulbourke.net/geometry/polygonise/.
